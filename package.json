@@ -1,0 +1,26 @@
+{
+  "name": "backendnode-curso",
+  "version": "1.0.0",
+  "description": "Servidor Backend del curso angular avanzado",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuriosoJack/backendnode-curso.git"
+  },
+  "author": "Juan Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FuriosoJack/backendnode-curso/issues"
+  },
+  "homepage": "https://github.com/FuriosoJack/backendnode-curso#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
